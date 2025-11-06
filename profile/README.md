@@ -9,8 +9,21 @@ Desarrollamos y mantenemos soluciones para:
 
 ### Tecnologías principales
 
-- Frontend: Angular, TypeScript, SCSS
-- Backend: Node.js, Express, Sequelize
-- Infra: Docker, Vercel / servidores propios
+- Frontend: Angular, TypeScript, SCSS  
+- Backend: Node.js, Express, Sequelize  
+- Infra: Docker, Vercel / servidores propios  
 
 > Repositorios de código: acceso privado para el equipo interno y socios tecnológicos.
+
+## Sistemas principales
+
+<p align="center">
+  <img src="../assets/Logo_Conelectricas.png" alt="Conelectricas R.L." height="60" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="../assets/Logo STE 819x266.png" alt="STE - Sistema de Transacciones de Excedentes de Energía" height="60" />
+</p>
+
+<p align="center">
+  <sub><strong>CONELECTRICAS R.L.</strong> – Plataforma corporativa</sub><br/>
+  <sub><strong>STE</strong> – Sistema de Transacciones de Excedentes de Energía</sub>
+</p>
