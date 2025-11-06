@@ -7,11 +7,11 @@ Desarrollamos y mantenemos soluciones para:
 - ⚡ **STE** – Sistema de Transacciones de Excedentes de Energía.
 - 💡 **GENELECTRIC** – Módulos de generación eléctrica y gestión de mediciones.
 
-### Tecnologías principales
+## Tecnologías principales
 
-- Frontend: Angular, TypeScript, SCSS  
-- Backend: Node.js, Express, Sequelize  
-- Infra: Docker, Vercel / servidores propios  
+- **Frontend:** Angular, TypeScript, SCSS  
+- **Backend:** Node.js, Express, Sequelize  
+- **Infraestructura:** Docker, Vercel / servidores propios  
 
 > Repositorios de código: acceso privado para el equipo interno y socios tecnológicos.
 
